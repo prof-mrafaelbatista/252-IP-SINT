@@ -1,0 +1,1 @@
+print('O Vasco é clube com a melhor história do mundo!!!')
